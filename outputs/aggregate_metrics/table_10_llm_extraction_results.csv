@@ -1,0 +1,5 @@
+extractor,cases,FEER_pct,REER_pct,PEER_pct,citation_accuracy_pct,schema_valid_outputs_pct,downstream_accuracy_pct
+"GPT-4o, schema constrained",240,6.8,10.9,13.7,91.6,97.1,86.7
+"Llama-3.3-70B-Instruct, schema constrained",240,10.7,15.8,20.4,85.2,92.9,80.8
+"Qwen2.5-72B-Instruct, schema constrained",240,9.4,14.3,18.9,87.5,94.6,82.5
+GPT-4o + validation repair threshold,240,4.9,8.1,10.6,93.8,99.2,90.4

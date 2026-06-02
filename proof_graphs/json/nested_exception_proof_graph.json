@@ -1,0 +1,130 @@
+{
+  "case_id": "CTRL_T3_001",
+  "target": "EnforceablePenalty(case)",
+  "accepted_conclusion": "Positive",
+  "nodes": [
+    {
+      "id": "F_ValidContract(case)",
+      "type": "fact",
+      "label": "ValidContract(case)",
+      "value": true
+    },
+    {
+      "id": "F_Delay(case)",
+      "type": "fact",
+      "label": "Delay(case)",
+      "value": true
+    },
+    {
+      "id": "F_ForceMajeure(case)",
+      "type": "fact",
+      "label": "ForceMajeure(case)",
+      "value": true
+    },
+    {
+      "id": "F_GrossNegligence(case)",
+      "type": "fact",
+      "label": "GrossNegligence(case)",
+      "value": true
+    },
+    {
+      "id": "F_NoticeMissing(case)",
+      "type": "fact",
+      "label": "NoticeMissing(case)",
+      "value": true
+    },
+    {
+      "id": "F_NoticeWaived(case)",
+      "type": "fact",
+      "label": "NoticeWaived(case)",
+      "value": true
+    },
+    {
+      "id": "r1",
+      "type": "rule",
+      "label": "r1"
+    },
+    {
+      "id": "r2",
+      "type": "rule",
+      "label": "r2"
+    },
+    {
+      "id": "r3",
+      "type": "rule",
+      "label": "r3"
+    },
+    {
+      "id": "r4",
+      "type": "rule",
+      "label": "r4"
+    },
+    {
+      "id": "r5",
+      "type": "rule",
+      "label": "r5"
+    },
+    {
+      "id": "C_POS",
+      "type": "conclusion",
+      "label": "EnforceablePenalty(case)"
+    },
+    {
+      "id": "C_NEG",
+      "type": "conclusion",
+      "label": "¬EnforceablePenalty(case)"
+    }
+  ],
+  "edges": [
+    {
+      "source": "r1",
+      "target": "C_POS",
+      "type": "support"
+    },
+    {
+      "source": "r2",
+      "target": "C_NEG",
+      "type": "support"
+    },
+    {
+      "source": "r3",
+      "target": "C_POS",
+      "type": "support"
+    },
+    {
+      "source": "r4",
+      "target": "C_NEG",
+      "type": "support"
+    },
+    {
+      "source": "r5",
+      "target": "C_POS",
+      "type": "support"
+    },
+    {
+      "source": "C_NEG",
+      "target": "C_POS",
+      "type": "attack"
+    },
+    {
+      "source": "r3",
+      "target": "r2",
+      "type": "priority_defeat"
+    },
+    {
+      "source": "r5",
+      "target": "r4",
+      "type": "priority_defeat"
+    }
+  ],
+  "accepted_arguments": [
+    "r1",
+    "r3",
+    "r5"
+  ],
+  "rejected_or_defeated_arguments": [
+    "r2",
+    "r4"
+  ],
+  "undetermined_flag": false
+}

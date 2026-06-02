@@ -1,0 +1,6 @@
+subset,items,typical_phenomenon,e2e_llm_rag_acc_pct,pdl_baseline_acc_pct,proposed_acc_pct,proposed_repair_acc_pct
+ContractNLI-derived items,60,Negations; survival clauses; exceptions,76.7,83.3,88.3,91.7
+CUAD-derived items,60,Clause-type variation; carve-outs,73.3,80.0,85.0,90.0
+MAUD-derived items,40,Definitions; cross-references; thresholds,67.5,77.5,80.0,87.5
+Russian-law contract examples,40,Procedural conditions; mandatory rules; priority conflicts,72.5,82.5,85.0,90.0
+Total,200,Mixed public-contract and Russian-law subset,72.5,80.9,84.5,89.5

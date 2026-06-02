@@ -1,0 +1,5 @@
+comparison_dimension,reported_measures,diagnostic_interpretation
+End-to-end LLM+RAG vs proposed LLM-to-NMR,accuracy; macro-F1; unsupported-answer rate; proof coverage,tests whether source-linked extraction followed by symbolic reasoning improves over direct neural answer generation
+PDL classifier vs proposed LLM-to-NMR,accuracy; exception accuracy; nested-exception accuracy,tests whether statistical aggregation can replace explicit non-monotonic defeat semantics
+Priority rules without nested defeats vs proposed LLM-to-NMR,nested-exception accuracy; proof coverage,tests added value of grounded defeat over one-level priority handling
+Explanation modes in cognitive verification study,correct verification; median time; workload; confidence,tests whether proof graphs improve human verification efficiency and reduce explanation-review effort

@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Anonymized scenario-level legal reasoning record",
+  "type": "object",
+  "required": [
+    "case_id",
+    "dataset",
+    "query",
+    "source_units",
+    "facts",
+    "rules",
+    "priorities",
+    "gold_label",
+    "proof_graph"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string"
+    },
+    "dataset": {
+      "type": "string"
+    },
+    "tier": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "phenomenon": {
+      "type": "string"
+    },
+    "query": {
+      "type": "string"
+    },
+    "target_literal": {
+      "type": "string"
+    },
+    "source_units": {
+      "type": "array"
+    },
+    "facts": {
+      "type": "object"
+    },
+    "rules": {
+      "type": "array"
+    },
+    "priorities": {
+      "type": "array"
+    },
+    "attack_graph": {
+      "type": "object"
+    },
+    "proof_graph": {
+      "type": "object"
+    },
+    "gold_label": {
+      "type": "string",
+      "enum": [
+        "Positive",
+        "Negative",
+        "Undetermined"
+      ]
+    },
+    "predictions": {
+      "type": "object"
+    },
+    "validation_log": {
+      "type": "object"
+    }
+  }
+}

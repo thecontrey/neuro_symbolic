@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Proof-Carrying Neuro-Symbolic Reasoning for Non-Monotonic Legal Decision Support with LLMs"
+message: "If you use this reproducibility package, please cite the associated paper."
+authors:
+  - family-names: "Ulizko"
+    given-names: "Maxim"
+  - family-names: "Gusarova"
+    given-names: "Natalia"
+  - family-names: "Tomilov"
+    given-names: "Ivan"
+  - family-names: "Vatian"
+    given-names: "Alexandra"
+  - family-names: "Polevaya"
+    given-names: "Tatiana"
+version: "1.0.0"
+date-released: "2026-05-22"
+license: "CC-BY-4.0"

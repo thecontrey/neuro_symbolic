@@ -1,0 +1,19 @@
+digraph ProofGraph {
+  rankdir=LR;
+  node [shape=box, style="rounded"];
+  F1 [label="ValidContract ∧ Delay"];
+  R1 [label="r1: delay => penalty"];
+  R2 [label="r2: force majeure => not penalty"];
+  R3 [label="r3: gross negligence => penalty"];
+  R4 [label="r4: notice missing => not penalty"];
+  R5 [label="r5: notice waived => penalty"];
+  C [label="Accepted: EnforceablePenalty"];
+  N [label="Counterargument: not EnforceablePenalty"];
+  F1 -> R1 -> C;
+  R2 -> N;
+  R3 -> R2 [label="defeats"];
+  R4 -> N;
+  R5 -> R4 [label="defeats"];
+  R3 -> C;
+  R5 -> C;
+}

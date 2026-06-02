@@ -1,0 +1,6 @@
+method,accuracy_pct,macro_f1_pct,exception_accuracy_pct,nested_exception_accuracy_pct,unsupported_answer_rate_pct,proof_coverage_pct
+End-to-end LLM+RAG,75.8,74.9,68.1,61.7,8.8,41.2
+PDL logistic-regression classifier,82.1,80.9,76.4,70.0,2.9,0.0
+Priority rules without nested defeats on extracted theory,84.2,83.4,79.1,68.3,0.0,81.7
+"Proposed LLM-to-NMR, best extractor",86.7,85.9,83.6,78.3,0.0,96.4
+Proposed LLM-to-NMR + validation repair threshold,90.4,89.7,88.1,83.3,0.0,94.3

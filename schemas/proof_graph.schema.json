@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Proof graph schema",
+  "type": "object",
+  "required": [
+    "case_id",
+    "target",
+    "accepted_conclusion",
+    "nodes",
+    "edges"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string"
+    },
+    "target": {
+      "type": "string"
+    },
+    "accepted_conclusion": {
+      "type": "string"
+    },
+    "nodes": {
+      "type": "array"
+    },
+    "edges": {
+      "type": "array"
+    },
+    "accepted_arguments": {
+      "type": "array"
+    },
+    "rejected_or_defeated_arguments": {
+      "type": "array"
+    },
+    "undetermined_flag": {
+      "type": "boolean"
+    }
+  }
+}

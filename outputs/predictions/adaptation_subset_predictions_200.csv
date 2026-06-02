@@ -1,0 +1,201 @@
+case_id,subset,gold_label,end_to_end_llm_rag,pdl_logistic_regression,proposed,proposed_repair
+ADAPT_CONTRACTNLIDERIVED_001,ContractNLI-derived,Positive,Undetermined,Undetermined,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_002,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_003,ContractNLI-derived,Undetermined,Negative,Undetermined,Undetermined,Negative
+ADAPT_CONTRACTNLIDERIVED_004,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_005,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_006,ContractNLI-derived,Negative,Undetermined,Negative,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_007,ContractNLI-derived,Undetermined,Negative,Undetermined,Undetermined,Undetermined
+ADAPT_CONTRACTNLIDERIVED_008,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_009,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_010,ContractNLI-derived,Negative,Negative,Undetermined,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_011,ContractNLI-derived,Undetermined,Negative,Negative,Undetermined,Undetermined
+ADAPT_CONTRACTNLIDERIVED_012,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_013,ContractNLI-derived,Positive,Positive,Positive,Negative,Positive
+ADAPT_CONTRACTNLIDERIVED_014,ContractNLI-derived,Negative,Negative,Negative,Undetermined,Negative
+ADAPT_CONTRACTNLIDERIVED_015,ContractNLI-derived,Undetermined,Positive,Undetermined,Undetermined,Undetermined
+ADAPT_CONTRACTNLIDERIVED_016,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_017,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_018,ContractNLI-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_019,ContractNLI-derived,Negative,Undetermined,Undetermined,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_020,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_021,ContractNLI-derived,Negative,Positive,Undetermined,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_022,ContractNLI-derived,Positive,Negative,Undetermined,Negative,Positive
+ADAPT_CONTRACTNLIDERIVED_023,ContractNLI-derived,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_CONTRACTNLIDERIVED_024,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_025,ContractNLI-derived,Negative,Positive,Negative,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_026,ContractNLI-derived,Positive,Positive,Undetermined,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_027,ContractNLI-derived,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_CONTRACTNLIDERIVED_028,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_029,ContractNLI-derived,Positive,Negative,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_030,ContractNLI-derived,Negative,Positive,Negative,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_031,ContractNLI-derived,Undetermined,Undetermined,Undetermined,Undetermined,Negative
+ADAPT_CONTRACTNLIDERIVED_032,ContractNLI-derived,Positive,Positive,Positive,Negative,Undetermined
+ADAPT_CONTRACTNLIDERIVED_033,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_034,ContractNLI-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_035,ContractNLI-derived,Undetermined,Undetermined,Positive,Undetermined,Undetermined
+ADAPT_CONTRACTNLIDERIVED_036,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_037,ContractNLI-derived,Negative,Undetermined,Negative,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_038,ContractNLI-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_039,ContractNLI-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_040,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_041,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_042,ContractNLI-derived,Negative,Negative,Negative,Undetermined,Undetermined
+ADAPT_CONTRACTNLIDERIVED_043,ContractNLI-derived,Undetermined,Undetermined,Undetermined,Positive,Undetermined
+ADAPT_CONTRACTNLIDERIVED_044,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_045,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_046,ContractNLI-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_047,ContractNLI-derived,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_CONTRACTNLIDERIVED_048,ContractNLI-derived,Positive,Positive,Positive,Undetermined,Positive
+ADAPT_CONTRACTNLIDERIVED_049,ContractNLI-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_050,ContractNLI-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_051,ContractNLI-derived,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_CONTRACTNLIDERIVED_052,ContractNLI-derived,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_CONTRACTNLIDERIVED_053,ContractNLI-derived,Positive,Positive,Negative,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_054,ContractNLI-derived,Positive,Positive,Negative,Positive,Positive
+ADAPT_CONTRACTNLIDERIVED_055,ContractNLI-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_056,ContractNLI-derived,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_CONTRACTNLIDERIVED_057,ContractNLI-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_058,ContractNLI-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CONTRACTNLIDERIVED_059,ContractNLI-derived,Negative,Positive,Negative,Negative,Positive
+ADAPT_CONTRACTNLIDERIVED_060,ContractNLI-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CUADDERIVED_001,CUAD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CUADDERIVED_002,CUAD-derived,Positive,Positive,Positive,Positive,Undetermined
+ADAPT_CUADDERIVED_003,CUAD-derived,Undetermined,Undetermined,Undetermined,Undetermined,Positive
+ADAPT_CUADDERIVED_004,CUAD-derived,Positive,Undetermined,Negative,Positive,Positive
+ADAPT_CUADDERIVED_005,CUAD-derived,Positive,Positive,Undetermined,Positive,Positive
+ADAPT_CUADDERIVED_006,CUAD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CUADDERIVED_007,CUAD-derived,Undetermined,Undetermined,Undetermined,Positive,Undetermined
+ADAPT_CUADDERIVED_008,CUAD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CUADDERIVED_009,CUAD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CUADDERIVED_010,CUAD-derived,Negative,Undetermined,Negative,Undetermined,Negative
+ADAPT_CUADDERIVED_011,CUAD-derived,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_CUADDERIVED_012,CUAD-derived,Positive,Positive,Undetermined,Positive,Positive
+ADAPT_CUADDERIVED_013,CUAD-derived,Positive,Positive,Positive,Negative,Positive
+ADAPT_CUADDERIVED_014,CUAD-derived,Negative,Positive,Negative,Negative,Undetermined
+ADAPT_CUADDERIVED_015,CUAD-derived,Negative,Negative,Positive,Negative,Negative
+ADAPT_CUADDERIVED_016,CUAD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CUADDERIVED_017,CUAD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CUADDERIVED_018,CUAD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CUADDERIVED_019,CUAD-derived,Negative,Positive,Negative,Negative,Negative
+ADAPT_CUADDERIVED_020,CUAD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CUADDERIVED_021,CUAD-derived,Negative,Negative,Undetermined,Negative,Undetermined
+ADAPT_CUADDERIVED_022,CUAD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CUADDERIVED_023,CUAD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CUADDERIVED_024,CUAD-derived,Positive,Positive,Positive,Undetermined,Negative
+ADAPT_CUADDERIVED_025,CUAD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CUADDERIVED_026,CUAD-derived,Negative,Positive,Negative,Negative,Negative
+ADAPT_CUADDERIVED_027,CUAD-derived,Negative,Undetermined,Positive,Negative,Negative
+ADAPT_CUADDERIVED_028,CUAD-derived,Undetermined,Positive,Undetermined,Undetermined,Undetermined
+ADAPT_CUADDERIVED_029,CUAD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CUADDERIVED_030,CUAD-derived,Negative,Negative,Undetermined,Negative,Negative
+ADAPT_CUADDERIVED_031,CUAD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CUADDERIVED_032,CUAD-derived,Positive,Undetermined,Undetermined,Undetermined,Positive
+ADAPT_CUADDERIVED_033,CUAD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CUADDERIVED_034,CUAD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CUADDERIVED_035,CUAD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CUADDERIVED_036,CUAD-derived,Positive,Positive,Negative,Positive,Positive
+ADAPT_CUADDERIVED_037,CUAD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CUADDERIVED_038,CUAD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CUADDERIVED_039,CUAD-derived,Undetermined,Undetermined,Negative,Undetermined,Undetermined
+ADAPT_CUADDERIVED_040,CUAD-derived,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_CUADDERIVED_041,CUAD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CUADDERIVED_042,CUAD-derived,Positive,Positive,Positive,Negative,Positive
+ADAPT_CUADDERIVED_043,CUAD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CUADDERIVED_044,CUAD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CUADDERIVED_045,CUAD-derived,Positive,Positive,Positive,Undetermined,Positive
+ADAPT_CUADDERIVED_046,CUAD-derived,Negative,Negative,Undetermined,Negative,Negative
+ADAPT_CUADDERIVED_047,CUAD-derived,Undetermined,Negative,Undetermined,Undetermined,Undetermined
+ADAPT_CUADDERIVED_048,CUAD-derived,Positive,Negative,Positive,Positive,Positive
+ADAPT_CUADDERIVED_049,CUAD-derived,Negative,Negative,Positive,Negative,Negative
+ADAPT_CUADDERIVED_050,CUAD-derived,Negative,Undetermined,Negative,Positive,Negative
+ADAPT_CUADDERIVED_051,CUAD-derived,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_CUADDERIVED_052,CUAD-derived,Undetermined,Negative,Undetermined,Undetermined,Negative
+ADAPT_CUADDERIVED_053,CUAD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_CUADDERIVED_054,CUAD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_CUADDERIVED_055,CUAD-derived,Negative,Negative,Negative,Undetermined,Negative
+ADAPT_CUADDERIVED_056,CUAD-derived,Undetermined,Negative,Undetermined,Undetermined,Undetermined
+ADAPT_CUADDERIVED_057,CUAD-derived,Negative,Positive,Negative,Negative,Negative
+ADAPT_CUADDERIVED_058,CUAD-derived,Negative,Positive,Negative,Negative,Negative
+ADAPT_CUADDERIVED_059,CUAD-derived,Undetermined,Negative,Undetermined,Undetermined,Undetermined
+ADAPT_CUADDERIVED_060,CUAD-derived,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_MAUDDERIVED_001,MAUD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_MAUDDERIVED_002,MAUD-derived,Positive,Positive,Positive,Negative,Undetermined
+ADAPT_MAUDDERIVED_003,MAUD-derived,Negative,Negative,Negative,Negative,Positive
+ADAPT_MAUDDERIVED_004,MAUD-derived,Positive,Negative,Negative,Positive,Positive
+ADAPT_MAUDDERIVED_005,MAUD-derived,Negative,Negative,Undetermined,Negative,Negative
+ADAPT_MAUDDERIVED_006,MAUD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_MAUDDERIVED_007,MAUD-derived,Undetermined,Undetermined,Undetermined,Negative,Undetermined
+ADAPT_MAUDDERIVED_008,MAUD-derived,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_MAUDDERIVED_009,MAUD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_MAUDDERIVED_010,MAUD-derived,Negative,Undetermined,Negative,Undetermined,Negative
+ADAPT_MAUDDERIVED_011,MAUD-derived,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_MAUDDERIVED_012,MAUD-derived,Positive,Positive,Negative,Undetermined,Positive
+ADAPT_MAUDDERIVED_013,MAUD-derived,Positive,Negative,Positive,Negative,Positive
+ADAPT_MAUDDERIVED_014,MAUD-derived,Positive,Undetermined,Positive,Positive,Negative
+ADAPT_MAUDDERIVED_015,MAUD-derived,Negative,Negative,Undetermined,Negative,Negative
+ADAPT_MAUDDERIVED_016,MAUD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_MAUDDERIVED_017,MAUD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_MAUDDERIVED_018,MAUD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_MAUDDERIVED_019,MAUD-derived,Negative,Undetermined,Negative,Negative,Negative
+ADAPT_MAUDDERIVED_020,MAUD-derived,Positive,Positive,Positive,Positive,Positive
+ADAPT_MAUDDERIVED_021,MAUD-derived,Positive,Positive,Negative,Positive,Negative
+ADAPT_MAUDDERIVED_022,MAUD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_MAUDDERIVED_023,MAUD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_MAUDDERIVED_024,MAUD-derived,Positive,Positive,Positive,Negative,Negative
+ADAPT_MAUDDERIVED_025,MAUD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_MAUDDERIVED_026,MAUD-derived,Negative,Positive,Negative,Negative,Negative
+ADAPT_MAUDDERIVED_027,MAUD-derived,Negative,Undetermined,Positive,Negative,Negative
+ADAPT_MAUDDERIVED_028,MAUD-derived,Positive,Undetermined,Positive,Positive,Positive
+ADAPT_MAUDDERIVED_029,MAUD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_MAUDDERIVED_030,MAUD-derived,Negative,Negative,Undetermined,Negative,Negative
+ADAPT_MAUDDERIVED_031,MAUD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_MAUDDERIVED_032,MAUD-derived,Positive,Undetermined,Negative,Negative,Positive
+ADAPT_MAUDDERIVED_033,MAUD-derived,Negative,Negative,Negative,Positive,Negative
+ADAPT_MAUDDERIVED_034,MAUD-derived,Negative,Positive,Negative,Negative,Negative
+ADAPT_MAUDDERIVED_035,MAUD-derived,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_MAUDDERIVED_036,MAUD-derived,Undetermined,Undetermined,Negative,Undetermined,Undetermined
+ADAPT_MAUDDERIVED_037,MAUD-derived,Negative,Positive,Negative,Negative,Negative
+ADAPT_MAUDDERIVED_038,MAUD-derived,Negative,Negative,Negative,Negative,Negative
+ADAPT_MAUDDERIVED_039,MAUD-derived,Negative,Undetermined,Negative,Negative,Negative
+ADAPT_MAUDDERIVED_040,MAUD-derived,Positive,Negative,Positive,Positive,Positive
+ADAPT_RUSSIANLAW_001,Russian-law contract examples,Positive,Positive,Positive,Positive,Positive
+ADAPT_RUSSIANLAW_002,Russian-law contract examples,Positive,Positive,Positive,Positive,Positive
+ADAPT_RUSSIANLAW_003,Russian-law contract examples,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_RUSSIANLAW_004,Russian-law contract examples,Undetermined,Negative,Undetermined,Undetermined,Undetermined
+ADAPT_RUSSIANLAW_005,Russian-law contract examples,Negative,Negative,Negative,Negative,Negative
+ADAPT_RUSSIANLAW_006,Russian-law contract examples,Positive,Positive,Positive,Positive,Undetermined
+ADAPT_RUSSIANLAW_007,Russian-law contract examples,Negative,Negative,Undetermined,Negative,Negative
+ADAPT_RUSSIANLAW_008,Russian-law contract examples,Positive,Positive,Positive,Positive,Positive
+ADAPT_RUSSIANLAW_009,Russian-law contract examples,Positive,Positive,Positive,Positive,Positive
+ADAPT_RUSSIANLAW_010,Russian-law contract examples,Positive,Positive,Positive,Negative,Positive
+ADAPT_RUSSIANLAW_011,Russian-law contract examples,Undetermined,Undetermined,Undetermined,Undetermined,Undetermined
+ADAPT_RUSSIANLAW_012,Russian-law contract examples,Positive,Positive,Positive,Positive,Positive
+ADAPT_RUSSIANLAW_013,Russian-law contract examples,Negative,Negative,Negative,Negative,Negative
+ADAPT_RUSSIANLAW_014,Russian-law contract examples,Negative,Negative,Negative,Undetermined,Negative
+ADAPT_RUSSIANLAW_015,Russian-law contract examples,Undetermined,Negative,Undetermined,Undetermined,Undetermined
+ADAPT_RUSSIANLAW_016,Russian-law contract examples,Positive,Positive,Positive,Positive,Positive
+ADAPT_RUSSIANLAW_017,Russian-law contract examples,Negative,Positive,Negative,Negative,Negative
+ADAPT_RUSSIANLAW_018,Russian-law contract examples,Negative,Negative,Undetermined,Negative,Negative
+ADAPT_RUSSIANLAW_019,Russian-law contract examples,Negative,Negative,Negative,Negative,Negative
+ADAPT_RUSSIANLAW_020,Russian-law contract examples,Positive,Undetermined,Positive,Positive,Positive
+ADAPT_RUSSIANLAW_021,Russian-law contract examples,Negative,Negative,Negative,Negative,Undetermined
+ADAPT_RUSSIANLAW_022,Russian-law contract examples,Negative,Negative,Negative,Undetermined,Negative
+ADAPT_RUSSIANLAW_023,Russian-law contract examples,Negative,Negative,Undetermined,Negative,Negative
+ADAPT_RUSSIANLAW_024,Russian-law contract examples,Positive,Undetermined,Positive,Positive,Positive
+ADAPT_RUSSIANLAW_025,Russian-law contract examples,Positive,Positive,Negative,Positive,Positive
+ADAPT_RUSSIANLAW_026,Russian-law contract examples,Negative,Undetermined,Negative,Negative,Negative
+ADAPT_RUSSIANLAW_027,Russian-law contract examples,Negative,Negative,Negative,Negative,Negative
+ADAPT_RUSSIANLAW_028,Russian-law contract examples,Positive,Positive,Positive,Positive,Positive
+ADAPT_RUSSIANLAW_029,Russian-law contract examples,Negative,Negative,Negative,Negative,Negative
+ADAPT_RUSSIANLAW_030,Russian-law contract examples,Positive,Negative,Positive,Positive,Positive
+ADAPT_RUSSIANLAW_031,Russian-law contract examples,Undetermined,Negative,Positive,Undetermined,Undetermined
+ADAPT_RUSSIANLAW_032,Russian-law contract examples,Positive,Positive,Negative,Positive,Positive
+ADAPT_RUSSIANLAW_033,Russian-law contract examples,Negative,Negative,Negative,Positive,Negative
+ADAPT_RUSSIANLAW_034,Russian-law contract examples,Negative,Undetermined,Negative,Negative,Negative
+ADAPT_RUSSIANLAW_035,Russian-law contract examples,Negative,Negative,Negative,Negative,Negative
+ADAPT_RUSSIANLAW_036,Russian-law contract examples,Positive,Positive,Positive,Negative,Undetermined
+ADAPT_RUSSIANLAW_037,Russian-law contract examples,Positive,Positive,Undetermined,Undetermined,Positive
+ADAPT_RUSSIANLAW_038,Russian-law contract examples,Negative,Undetermined,Negative,Negative,Negative
+ADAPT_RUSSIANLAW_039,Russian-law contract examples,Negative,Positive,Negative,Negative,Positive
+ADAPT_RUSSIANLAW_040,Russian-law contract examples,Positive,Positive,Positive,Positive,Positive

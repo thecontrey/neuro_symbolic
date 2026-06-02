@@ -1,0 +1,4 @@
+injected_cyclic_priority_cases,cycles_repaired_automatically_pct,human_review_flags_pct,false_determinate_conclusions_pct,accuracy_after_repair_pct
+25,88.0,12.0,0.0,92.0
+50,84.0,16.0,0.0,90.0
+100,79.0,21.0,0.0,87.0

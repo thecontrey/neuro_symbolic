@@ -1,0 +1,5 @@
+method,tier0,tier1,tier2,tier3
+Lexical top-rule heuristic,99.1,47.3,54.7,66.7
+Monotonic forward chaining,98.0,47.3,54.7,66.7
+Priority rules without nested defeats,97.2,96.3,92.0,84.0
+Proposed grounded NMR engine,100.0,99.3,98.7,99.3

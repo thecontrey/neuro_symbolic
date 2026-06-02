@@ -1,0 +1,5 @@
+method,accuracy_pct,macro_f1_pct,exception_sensitivity_pct,traceability_coverage_pct
+Lexical top-rule heuristic,67.2,72.1,30.4,0.0
+Monotonic forward chaining,67.2,72.1,30.4,54.6
+Priority rules without nested defeats,94.0,95.6,87.3,81.3
+Proposed grounded NMR engine,99.3,99.1,98.7,96.8

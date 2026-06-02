@@ -1,0 +1,217 @@
+participant_id,mode,item_id,correct_verification,verification_time_s,nasa_tlx,confidence_1_5
+L01,LLM answer only,CV_01,False,108,72.5,3.6
+L02,LLM answer only,CV_01,False,109,72.4,2.9
+L03,LLM answer only,CV_01,True,198,62.7,3.3
+L04,LLM answer only,CV_01,True,170,42.8,4.2
+L05,LLM answer only,CV_01,False,132,69.1,2.8
+L06,LLM answer only,CV_01,False,111,55.5,3.4
+L07,LLM answer only,CV_01,False,147,52.5,3.5
+L08,LLM answer only,CV_01,False,257,63.6,3.0
+L09,LLM answer only,CV_01,False,168,53.9,3.7
+L10,LLM answer only,CV_01,False,77,53.5,3.7
+L11,LLM answer only,CV_01,False,121,59.5,1.7
+L12,LLM answer only,CV_01,False,137,69.4,3.0
+L01,LLM answer only,CV_02,True,65,58.4,2.9
+L02,LLM answer only,CV_02,True,144,64.4,3.8
+L03,LLM answer only,CV_02,True,151,64.2,3.5
+L04,LLM answer only,CV_02,True,97,56.3,3.3
+L05,LLM answer only,CV_02,False,214,70.6,2.7
+L06,LLM answer only,CV_02,True,134,56.9,3.5
+L07,LLM answer only,CV_02,True,191,54.8,3.3
+L08,LLM answer only,CV_02,True,108,75.7,2.4
+L09,LLM answer only,CV_02,True,153,60.9,3.3
+L10,LLM answer only,CV_02,True,229,46.5,3.8
+L11,LLM answer only,CV_02,True,153,61.6,3.9
+L12,LLM answer only,CV_02,False,166,55.5,3.2
+L01,LLM answer only,CV_03,True,91,55.8,2.4
+L02,LLM answer only,CV_03,True,129,67.8,3.2
+L03,LLM answer only,CV_03,True,109,42.5,3.3
+L04,LLM answer only,CV_03,False,135,45.3,3.0
+L05,LLM answer only,CV_03,True,103,61.8,3.1
+L06,LLM answer only,CV_03,True,215,69.4,3.7
+L07,LLM answer only,CV_03,False,79,67.9,3.2
+L08,LLM answer only,CV_03,False,204,65.0,3.8
+L09,LLM answer only,CV_03,True,162,50.5,3.2
+L10,LLM answer only,CV_03,True,158,61.1,3.2
+L11,LLM answer only,CV_03,True,98,54.8,4.2
+L12,LLM answer only,CV_03,True,72,47.4,2.7
+L01,LLM answer only,CV_04,True,112,70.8,3.6
+L02,LLM answer only,CV_04,True,105,67.5,2.6
+L03,LLM answer only,CV_04,True,133,51.2,2.8
+L04,LLM answer only,CV_04,False,131,67.3,2.0
+L05,LLM answer only,CV_04,True,404,60.5,3.6
+L06,LLM answer only,CV_04,False,105,57.3,3.5
+L07,LLM answer only,CV_04,False,89,53.6,3.0
+L08,LLM answer only,CV_04,True,172,67.1,4.0
+L09,LLM answer only,CV_04,True,66,71.4,3.8
+L10,LLM answer only,CV_04,False,88,64.3,3.6
+L11,LLM answer only,CV_04,True,136,62.0,3.6
+L12,LLM answer only,CV_04,True,136,56.0,2.3
+L01,LLM answer only,CV_05,False,87,62.0,3.0
+L02,LLM answer only,CV_05,True,169,69.3,2.7
+L03,LLM answer only,CV_05,True,72,65.5,3.0
+L04,LLM answer only,CV_05,False,151,56.2,2.6
+L05,LLM answer only,CV_05,False,58,66.4,3.2
+L06,LLM answer only,CV_05,True,201,59.5,3.6
+L07,LLM answer only,CV_05,True,57,59.3,2.3
+L08,LLM answer only,CV_05,False,150,78.1,4.3
+L09,LLM answer only,CV_05,True,136,63.8,3.3
+L10,LLM answer only,CV_05,False,100,60.8,3.7
+L11,LLM answer only,CV_05,False,148,43.1,3.4
+L12,LLM answer only,CV_05,True,82,50.7,2.6
+L01,LLM answer only,CV_06,False,85,59.1,3.2
+L02,LLM answer only,CV_06,False,84,62.8,2.2
+L03,LLM answer only,CV_06,True,129,74.5,2.8
+L04,LLM answer only,CV_06,False,119,68.4,3.9
+L05,LLM answer only,CV_06,True,112,75.3,3.8
+L06,LLM answer only,CV_06,True,163,58.3,3.5
+L07,LLM answer only,CV_06,True,192,63.3,3.0
+L08,LLM answer only,CV_06,True,103,43.5,2.8
+L09,LLM answer only,CV_06,False,65,56.0,2.8
+L10,LLM answer only,CV_06,False,74,64.4,2.5
+L11,LLM answer only,CV_06,True,149,61.3,2.7
+L12,LLM answer only,CV_06,True,91,59.7,1.9
+L01,Textual rationale,CV_01,True,112,57.1,3.2
+L02,Textual rationale,CV_01,True,48,48.8,2.6
+L03,Textual rationale,CV_01,False,74,48.7,4.5
+L04,Textual rationale,CV_01,False,128,59.1,3.0
+L05,Textual rationale,CV_01,True,206,62.9,3.5
+L06,Textual rationale,CV_01,False,75,55.2,2.7
+L07,Textual rationale,CV_01,True,56,48.2,3.6
+L08,Textual rationale,CV_01,False,111,43.5,3.8
+L09,Textual rationale,CV_01,True,122,53.0,4.0
+L10,Textual rationale,CV_01,False,95,62.4,4.5
+L11,Textual rationale,CV_01,False,100,61.1,3.7
+L12,Textual rationale,CV_01,True,98,52.5,3.4
+L01,Textual rationale,CV_02,False,72,59.9,4.1
+L02,Textual rationale,CV_02,True,68,66.1,2.6
+L03,Textual rationale,CV_02,True,90,48.1,3.3
+L04,Textual rationale,CV_02,False,121,54.7,3.9
+L05,Textual rationale,CV_02,False,164,51.0,3.3
+L06,Textual rationale,CV_02,True,106,54.4,3.2
+L07,Textual rationale,CV_02,True,91,48.2,2.9
+L08,Textual rationale,CV_02,True,85,53.1,3.1
+L09,Textual rationale,CV_02,True,112,64.1,3.7
+L10,Textual rationale,CV_02,True,126,55.8,3.4
+L11,Textual rationale,CV_02,False,106,65.3,4.5
+L12,Textual rationale,CV_02,False,130,57.3,3.4
+L01,Textual rationale,CV_03,False,87,46.4,3.7
+L02,Textual rationale,CV_03,True,95,56.9,3.4
+L03,Textual rationale,CV_03,False,106,53.2,4.1
+L04,Textual rationale,CV_03,True,241,52.9,3.4
+L05,Textual rationale,CV_03,True,82,35.4,3.5
+L06,Textual rationale,CV_03,False,89,54.2,3.9
+L07,Textual rationale,CV_03,True,64,47.8,3.8
+L08,Textual rationale,CV_03,False,149,49.1,4.3
+L09,Textual rationale,CV_03,False,118,56.4,4.2
+L10,Textual rationale,CV_03,False,73,67.2,3.1
+L11,Textual rationale,CV_03,True,75,66.2,3.6
+L12,Textual rationale,CV_03,False,79,60.4,3.4
+L01,Textual rationale,CV_04,True,94,64.0,2.9
+L02,Textual rationale,CV_04,True,109,43.1,3.6
+L03,Textual rationale,CV_04,True,109,46.1,3.1
+L04,Textual rationale,CV_04,False,100,48.7,3.5
+L05,Textual rationale,CV_04,True,71,43.0,3.9
+L06,Textual rationale,CV_04,True,158,60.8,3.7
+L07,Textual rationale,CV_04,True,77,48.8,4.0
+L08,Textual rationale,CV_04,True,78,52.9,3.6
+L09,Textual rationale,CV_04,False,123,66.9,2.8
+L10,Textual rationale,CV_04,True,98,46.5,4.1
+L11,Textual rationale,CV_04,True,117,43.9,3.2
+L12,Textual rationale,CV_04,False,61,52.4,3.2
+L01,Textual rationale,CV_05,True,91,54.2,3.9
+L02,Textual rationale,CV_05,True,106,59.0,2.3
+L03,Textual rationale,CV_05,True,68,56.7,3.4
+L04,Textual rationale,CV_05,True,85,47.2,3.0
+L05,Textual rationale,CV_05,True,87,60.8,3.8
+L06,Textual rationale,CV_05,True,56,57.1,3.5
+L07,Textual rationale,CV_05,False,63,63.5,4.4
+L08,Textual rationale,CV_05,True,111,46.8,2.6
+L09,Textual rationale,CV_05,True,114,61.1,3.2
+L10,Textual rationale,CV_05,False,145,47.0,3.4
+L11,Textual rationale,CV_05,True,117,61.4,3.1
+L12,Textual rationale,CV_05,True,167,56.2,3.2
+L01,Textual rationale,CV_06,True,105,56.3,3.2
+L02,Textual rationale,CV_06,True,115,45.2,3.1
+L03,Textual rationale,CV_06,False,98,51.4,3.1
+L04,Textual rationale,CV_06,True,95,66.6,3.6
+L05,Textual rationale,CV_06,True,153,45.2,4.0
+L06,Textual rationale,CV_06,True,145,54.9,2.8
+L07,Textual rationale,CV_06,True,57,59.6,3.9
+L08,Textual rationale,CV_06,True,75,35.9,3.0
+L09,Textual rationale,CV_06,True,85,52.8,4.0
+L10,Textual rationale,CV_06,True,135,52.8,2.5
+L11,Textual rationale,CV_06,True,108,43.4,3.7
+L12,Textual rationale,CV_06,True,54,32.8,4.2
+L01,Proof graph,CV_01,False,25,34.6,4.4
+L02,Proof graph,CV_01,True,39,27.1,4.0
+L03,Proof graph,CV_01,False,50,41.0,3.6
+L04,Proof graph,CV_01,True,76,35.8,5
+L05,Proof graph,CV_01,True,39,55.2,4.3
+L06,Proof graph,CV_01,True,55,37.3,4.2
+L07,Proof graph,CV_01,True,38,27.7,4.7
+L08,Proof graph,CV_01,True,75,42.1,5
+L09,Proof graph,CV_01,False,90,42.1,4.4
+L10,Proof graph,CV_01,True,72,48.7,4.1
+L11,Proof graph,CV_01,True,81,34.5,4.3
+L12,Proof graph,CV_01,True,118,32.3,4.1
+L01,Proof graph,CV_02,True,43,36.1,4.1
+L02,Proof graph,CV_02,True,47,42.8,4.1
+L03,Proof graph,CV_02,True,155,32.0,4.4
+L04,Proof graph,CV_02,True,49,43.6,3.9
+L05,Proof graph,CV_02,True,88,38.0,3.9
+L06,Proof graph,CV_02,True,49,23.7,3.6
+L07,Proof graph,CV_02,True,70,39.5,4.0
+L08,Proof graph,CV_02,True,31,36.6,4.6
+L09,Proof graph,CV_02,True,81,33.6,5
+L10,Proof graph,CV_02,True,52,32.5,4.3
+L11,Proof graph,CV_02,True,59,33.7,4.2
+L12,Proof graph,CV_02,True,41,34.9,4.4
+L01,Proof graph,CV_03,True,139,36.5,4.2
+L02,Proof graph,CV_03,True,48,38.4,4.4
+L03,Proof graph,CV_03,True,72,37.8,3.9
+L04,Proof graph,CV_03,True,101,31.3,4.4
+L05,Proof graph,CV_03,True,79,29.5,3.8
+L06,Proof graph,CV_03,True,69,34.7,4.5
+L07,Proof graph,CV_03,True,65,39.4,4.0
+L08,Proof graph,CV_03,False,36,26.0,4.2
+L09,Proof graph,CV_03,True,56,45.5,3.9
+L10,Proof graph,CV_03,True,65,32.0,4.0
+L11,Proof graph,CV_03,True,55,37.9,4.7
+L12,Proof graph,CV_03,True,27,32.2,5
+L01,Proof graph,CV_04,True,149,32.7,5
+L02,Proof graph,CV_04,True,73,26.1,3.8
+L03,Proof graph,CV_04,False,98,36.0,5
+L04,Proof graph,CV_04,False,61,38.1,4.8
+L05,Proof graph,CV_04,True,59,39.1,4.1
+L06,Proof graph,CV_04,True,59,44.8,5
+L07,Proof graph,CV_04,True,58,48.2,3.6
+L08,Proof graph,CV_04,False,61,41.6,4.8
+L09,Proof graph,CV_04,True,44,32.2,4.1
+L10,Proof graph,CV_04,True,68,45.8,4.7
+L11,Proof graph,CV_04,True,41,38.7,4.6
+L12,Proof graph,CV_04,True,24,37.5,4.0
+L01,Proof graph,CV_05,True,61,29.5,4.8
+L02,Proof graph,CV_05,True,44,34.5,4.3
+L03,Proof graph,CV_05,False,55,46.8,3.9
+L04,Proof graph,CV_05,True,23,42.7,4.2
+L05,Proof graph,CV_05,True,72,32.1,4.0
+L06,Proof graph,CV_05,True,40,35.7,5
+L07,Proof graph,CV_05,True,30,35.3,4.1
+L08,Proof graph,CV_05,True,63,37.2,4.3
+L09,Proof graph,CV_05,False,68,39.8,4.3
+L10,Proof graph,CV_05,True,68,35.3,4.6
+L11,Proof graph,CV_05,False,67,36.2,3.6
+L12,Proof graph,CV_05,True,59,51.2,3.8
+L01,Proof graph,CV_06,True,65,33.6,4.4
+L02,Proof graph,CV_06,True,85,38.5,3.6
+L03,Proof graph,CV_06,False,70,37.1,3.9
+L04,Proof graph,CV_06,True,58,32.8,4.0
+L05,Proof graph,CV_06,True,55,30.7,3.6
+L06,Proof graph,CV_06,True,63,43.4,4.7
+L07,Proof graph,CV_06,True,35,47.9,3.4
+L08,Proof graph,CV_06,False,42,37.0,3.6
+L09,Proof graph,CV_06,True,81,35.3,4.4
+L10,Proof graph,CV_06,True,48,50.9,5
+L11,Proof graph,CV_06,True,45,46.6,4.3
+L12,Proof graph,CV_06,True,49,23.5,4.0
