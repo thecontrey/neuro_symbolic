@@ -11,5 +11,4 @@
 - `proof_graphs/` — proof graph in JSON and DOT.
 - `baselines/` — minimal baseline and symbolic reasoner scripts.
 - `evaluation/` — metric, bootstrap, and validation utilities.
-- `figures/` — architecture figure sources.
 
